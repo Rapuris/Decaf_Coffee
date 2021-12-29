@@ -1,0 +1,39 @@
+LOCUS       Exported                1203 bp DNA     linear   UNA 22-DEC-2021
+DEFINITION  natural linear DNA
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      natural DNA sequence
+  ORGANISM  unspecified
+REFERENCE   1  (bases 1 to 1203)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Dec 29, 2021 from SnapGene 5.3.2
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..1203
+                     /organism="unspecified"
+                     /mol_type="genomic DNA"
+ORIGIN
+        1 atggagctcc aagaagtcct gcatatgaat ggaggcgaag gcgatacaag ctacgccaag
+       61 aactcatcct acaatctgtt tctcatcagg gtgaaacctg tccttgaaca atgcatacaa
+      121 gaattgttgc gggccaactt gcccaacatc aacaagtgct ttaaagttgg ggatttggga
+      181 tgcgcttctg gaccaaacac attttcaaca gttcgggaca ttgtacaaag tattgacaaa
+      241 gttggccagg aaaagaagaa tgaattagaa cgtcccacca ttcagatttt tctgaatgat
+      301 cttttccaaa atgatttcaa ttcggttttc aagttgctgc caagcttcta ccgcaatctt
+      361 gagaaagaaa atggacgcaa aataggatcg tgcctgatag gcgcaatgcc cggctctttc
+      421 tacagcagac tcttccccga ggagtccatg cattttttac actcttgtta ctgtttgcat
+      481 tggttatctc aggttcccag cggtttggtg actgaattgg ggatcagtgc gaacaaaggg
+      541 tgcatttact cttccaaagc aagtggtccg cccatcaaga aggcatattt ggatcaattt
+      601 acgaaagatt ttaccacatt tcttaggatt cattcggaag agttgatttc acgtggccga
+      661 atgctcctta ctttcatttg taaagaagat gaattcgacc acccgaattc catggacttg
+      721 cttgagatgt caataaacga cttggttatt gagggacatc tggaggaaga aaaattggat
+      781 agcttcaatg ttccaatcta tgcaccttca acagaagaag taaagcgcat agttgaggag
+      841 gaaggttctt ttgaaatttt atacctggag actttttatg ccccttatga tgctggcttc
+      901 tctattgatg atgattacca aggaagatcc cattcccctg tatcctgcga tgaacatgct
+      961 agagcagcgc atgtggcatc tgtcgttaga tcaatttacg aacccatcct cgcgagtcat
+     1021 tttggagaag ctattttacc tgacttatcc cacaggattg cgaagaatgc agcaaaggtt
+     1081 ctccgctcgg gcaaaggctt ctatgatagt gttatcattt ctctcgccaa aaagccggag
+     1141 aaggcagaca tgtaaaagtt tgtttttagt tggtttttgt gttgtggttt gtttttagat
+     1201 atg
+//
