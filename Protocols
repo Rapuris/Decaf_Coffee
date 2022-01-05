@@ -10,6 +10,12 @@ RT-PCR to quantify caffeine synthase expression: https://www.thermofisher.com/us
 (Note: Temperature and other paramters are set by the primers I designed for quantifying gene expression of the caffeine synthase gene)
 
 
+	Sequence (5'->3')	Template strand	Length	Start	Stop	Tm	GC%	Self complementarity	Self 3' complementarity
+Forward primer	CCGCCCATCAAGAAGGCATA	Plus	20	698	717	60.18	55.00	4.00	2.00
+Reverse primer	GTCCATGGAATTCGGGTGGT	Minus	20	847	828	60.03	55.00	8.00	2.00
+Product length	150
+
+
 
 
 
