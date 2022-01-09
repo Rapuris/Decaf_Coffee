@@ -9,6 +9,7 @@ Planned steps:
 RT-PCR to quantify caffeine synthase expression: https://www.thermofisher.com/us/en/home/brands/thermo-scientific/molecular-biology/molecular-biology-learning-center/molecular-biology-resource-library/spotlight-articles/basic-principles-rt-qpcr.html
 (Note: Temperature and other paramters are set by the primers I designed for quantifying gene expression of the caffeine synthase gene)
 
+Primer sequences to quantify effect of RNAi transformation vector on caffeine syntheae (DXMT) gene expression in Coffea Arabica: 
 
 	Sequence (5'->3')	Template strand	Length	Start	Stop	Tm	GC%	Self complementarity	Self 3' complementarity
 Forward primer	CCGCCCATCAAGAAGGCATA	Plus	20	698	717	60.18	55.00	4.00	2.00
